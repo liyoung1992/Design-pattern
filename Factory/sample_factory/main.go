@@ -64,5 +64,9 @@ func main() {
 	oper := fac.createOperation("+")
 	oper.setNumA(4.0)
 	oper.setNumB(5.0)
+	oper1 := fac.createOperation("-")
+	oper1.setNumA(120)
+	oper1.setNumB(90.0)
 	fmt.Println(oper.getResult())
+	fmt.Println(oper1.getResult())
 }
