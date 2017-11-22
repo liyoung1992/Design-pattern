@@ -1,6 +1,5 @@
-# Design-pattern
+# demos go
 
-设计模式-go语言描述
 
 # 目录
 
