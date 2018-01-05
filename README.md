@@ -2,6 +2,7 @@
 
 
 # 目录
+基本所有的demo都是基于go的第三方库或者官方推荐的库来实现，demo中遇到的库如果没有安装，请在编译前直接  ` go get ----` 来安装！（这些demo（类库）在项目中很常见，且很多没有文档，所以才有了这个demos-go）
 
 1.[单例模式](https://github.com/liyoung1992/Design-pattern/tree/master/Singleton)
 
