@@ -13,5 +13,7 @@
 
 5.[go读写redis](https://github.com/liyoung1992/Design-pattern/tree/master/redis)
 
-6.[go websocketDemo](https://github.com/liyoung1992/Design-pattern/tree/master/websocketDemo)
+6.[go websocketDemo（websocket前后端操作）](https://github.com/liyoung1992/Design-pattern/tree/master/websocketDemo)
+
+7.[go-ini操作实例（可用来操作项目的配置文件）](https://github.com/liyoung1992/Design-pattern/tree/master/goini)
 
