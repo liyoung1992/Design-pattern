@@ -18,3 +18,5 @@
 
 7.[go-ini操作实例（可用来操作项目的配置文件）](https://github.com/liyoung1992/Design-pattern/tree/master/goini)
 
+8.[orm操作实例（基于gorm）](https://github.com/liyoung1992/Design-pattern/tree/master/GOrmDemo)
+
